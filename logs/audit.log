@@ -1,0 +1,130 @@
+2026-07-01T13:16:46Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=pipeline_start | status=success
+2026-07-01T13:16:46Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=mcp_call_start | status=success
+2026-07-01T13:16:46Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=mcp_call_start | status=success
+2026-07-01T13:16:46Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=mcp_call_start | status=success
+2026-07-01T13:16:46Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=mcp_call_complete | status=success | duration_ms=23
+2026-07-01T13:16:46Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=mcp_call_complete | status=success | duration_ms=51
+2026-07-01T13:16:46Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=mcp_call_complete | status=success | duration_ms=32
+2026-07-01T13:16:46Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=mcp_call_start | status=success
+2026-07-01T13:16:46Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=mcp_call_start | status=success
+2026-07-01T13:16:46Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=mcp_call_complete | status=success | duration_ms=0
+2026-07-01T13:16:50Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=mcp_call_complete | status=success | duration_ms=3529
+2026-07-01T13:16:50Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_dispatch | status=success | agent=inventory_agent
+2026-07-01T13:16:50Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_dispatch | status=success | agent=finance_agent
+2026-07-01T13:16:50Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_dispatch | status=success | agent=supplier_agent
+2026-07-01T13:16:50Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_dispatch | status=success | agent=compliance_agent
+2026-07-01T13:16:50Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_complete | status=success | agent=compliance_agent | duration_ms=2
+2026-07-01T13:16:50Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_complete | status=success | agent=inventory_agent | duration_ms=51
+2026-07-01T13:16:52Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_complete | status=success | agent=finance_agent | duration_ms=2017
+2026-07-01T13:16:52Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_complete | status=success | agent=supplier_agent | duration_ms=2043
+2026-07-01T13:16:52Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_dispatch | status=success | agent=risk_tracker_agent
+2026-07-01T13:16:52Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_complete | status=success | agent=risk_tracker_agent | duration_ms=13
+2026-07-01T13:16:52Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_dispatch | status=success | agent=strategy_agent
+2026-07-01T13:16:54Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_complete | status=success | agent=strategy_agent | duration_ms=1910
+2026-07-01T13:16:54Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_dispatch | status=success | agent=communication_agent
+2026-07-01T13:16:56Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=agent_complete | status=success | agent=communication_agent | duration_ms=1886
+2026-07-01T13:16:56Z | INFO | run_id=86e07fd8-8f60-42e3-8907-4aee307044dc | event=guardrail_hitl_pending | status=success | agent=communication_agent
+2026-07-01T13:18:32Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=pipeline_start | status=success
+2026-07-01T13:18:32Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=mcp_call_start | status=success
+2026-07-01T13:18:32Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=mcp_call_start | status=success
+2026-07-01T13:18:32Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=mcp_call_start | status=success
+2026-07-01T13:18:32Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=mcp_call_complete | status=success | duration_ms=19
+2026-07-01T13:18:32Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=mcp_call_complete | status=success | duration_ms=55
+2026-07-01T13:18:32Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=mcp_call_complete | status=success | duration_ms=25
+2026-07-01T13:18:32Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=mcp_call_start | status=success
+2026-07-01T13:18:32Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=mcp_call_start | status=success
+2026-07-01T13:18:32Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=mcp_call_complete | status=success | duration_ms=1
+2026-07-01T13:18:35Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=mcp_call_complete | status=success | duration_ms=2842
+2026-07-01T13:18:35Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_dispatch | status=success | agent=inventory_agent
+2026-07-01T13:18:35Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_dispatch | status=success | agent=finance_agent
+2026-07-01T13:18:35Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_dispatch | status=success | agent=supplier_agent
+2026-07-01T13:18:35Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_dispatch | status=success | agent=compliance_agent
+2026-07-01T13:18:35Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_complete | status=success | agent=inventory_agent | duration_ms=24
+2026-07-01T13:18:35Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_complete | status=success | agent=compliance_agent | duration_ms=6
+2026-07-01T13:18:36Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_complete | status=success | agent=supplier_agent | duration_ms=1812
+2026-07-01T13:18:36Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_complete | status=success | agent=finance_agent | duration_ms=1836
+2026-07-01T13:18:36Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_dispatch | status=success | agent=risk_tracker_agent
+2026-07-01T13:18:36Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_complete | status=success | agent=risk_tracker_agent | duration_ms=17
+2026-07-01T13:18:36Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_dispatch | status=success | agent=strategy_agent
+2026-07-01T13:18:38Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_complete | status=success | agent=strategy_agent | duration_ms=1689
+2026-07-01T13:18:38Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_dispatch | status=success | agent=communication_agent
+2026-07-01T13:18:40Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=agent_complete | status=success | agent=communication_agent | duration_ms=1897
+2026-07-01T13:18:40Z | INFO | run_id=9389bb28-7fb9-417e-871d-db4b0c2b93dc | event=guardrail_hitl_pending | status=success | agent=communication_agent
+2026-07-01T13:22:42Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=pipeline_start | status=success
+2026-07-01T13:22:42Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=mcp_call_start | status=success
+2026-07-01T13:22:42Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=mcp_call_start | status=success
+2026-07-01T13:22:42Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=mcp_call_start | status=success
+2026-07-01T13:22:42Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=mcp_call_complete | status=success | duration_ms=14
+2026-07-01T13:22:42Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=mcp_call_complete | status=success | duration_ms=65
+2026-07-01T13:22:42Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=mcp_call_complete | status=success | duration_ms=24
+2026-07-01T13:22:42Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=mcp_call_start | status=success
+2026-07-01T13:22:42Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=mcp_call_start | status=success
+2026-07-01T13:22:42Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=mcp_call_complete | status=success | duration_ms=1
+2026-07-01T13:22:45Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=mcp_call_complete | status=success | duration_ms=3009
+2026-07-01T13:22:45Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_dispatch | status=success | agent=inventory_agent
+2026-07-01T13:22:45Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_dispatch | status=success | agent=finance_agent
+2026-07-01T13:22:45Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_dispatch | status=success | agent=supplier_agent
+2026-07-01T13:22:45Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_dispatch | status=success | agent=compliance_agent
+2026-07-01T13:22:45Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_complete | status=success | agent=inventory_agent | duration_ms=27
+2026-07-01T13:22:45Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_complete | status=success | agent=compliance_agent | duration_ms=12
+2026-07-01T13:22:47Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_complete | status=success | agent=supplier_agent | duration_ms=2037
+2026-07-01T13:22:47Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_complete | status=success | agent=finance_agent | duration_ms=2069
+2026-07-01T13:22:47Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_dispatch | status=success | agent=risk_tracker_agent
+2026-07-01T13:22:47Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_complete | status=success | agent=risk_tracker_agent | duration_ms=22
+2026-07-01T13:22:47Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_dispatch | status=success | agent=strategy_agent
+2026-07-01T13:22:49Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_complete | status=success | agent=strategy_agent | duration_ms=1874
+2026-07-01T13:22:49Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_dispatch | status=success | agent=communication_agent
+2026-07-01T13:22:51Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=agent_complete | status=success | agent=communication_agent | duration_ms=2218
+2026-07-01T13:22:51Z | INFO | run_id=cd7c3d7c-8609-4579-b5b9-92cef603319c | event=guardrail_hitl_pending | status=success | agent=communication_agent
+2026-07-01T13:28:11Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=pipeline_start | status=success
+2026-07-01T13:28:11Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=mcp_call_start | status=success
+2026-07-01T13:28:11Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=mcp_call_start | status=success
+2026-07-01T13:28:11Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=mcp_call_start | status=success
+2026-07-01T13:28:11Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=mcp_call_complete | status=success | duration_ms=53
+2026-07-01T13:28:11Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=mcp_call_complete | status=success | duration_ms=34
+2026-07-01T13:28:11Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=mcp_call_complete | status=success | duration_ms=22
+2026-07-01T13:28:11Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=mcp_call_start | status=success
+2026-07-01T13:28:11Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=mcp_call_start | status=success
+2026-07-01T13:28:11Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=mcp_call_complete | status=success | duration_ms=2
+2026-07-01T13:28:13Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=mcp_call_complete | status=success | duration_ms=2593
+2026-07-01T13:28:13Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_dispatch | status=success | agent=inventory_agent
+2026-07-01T13:28:13Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_dispatch | status=success | agent=finance_agent
+2026-07-01T13:28:13Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_dispatch | status=success | agent=supplier_agent
+2026-07-01T13:28:13Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_dispatch | status=success | agent=compliance_agent
+2026-07-01T13:28:13Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_complete | status=success | agent=inventory_agent | duration_ms=31
+2026-07-01T13:28:13Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_complete | status=success | agent=compliance_agent | duration_ms=9
+2026-07-01T13:28:15Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_complete | status=success | agent=supplier_agent | duration_ms=1521
+2026-07-01T13:28:15Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_complete | status=success | agent=finance_agent | duration_ms=1742
+2026-07-01T13:28:15Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_dispatch | status=success | agent=risk_tracker_agent
+2026-07-01T13:28:15Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_complete | status=success | agent=risk_tracker_agent | duration_ms=30
+2026-07-01T13:28:15Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_dispatch | status=success | agent=strategy_agent
+2026-07-01T13:28:17Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_complete | status=success | agent=strategy_agent | duration_ms=1927
+2026-07-01T13:28:17Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_dispatch | status=success | agent=communication_agent
+2026-07-01T13:28:19Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=agent_complete | status=success | agent=communication_agent | duration_ms=2055
+2026-07-01T13:28:19Z | INFO | run_id=11ee8d7f-e2a4-42e2-83b2-b0dd37eb4c6d | event=guardrail_hitl_pending | status=success | agent=communication_agent
+2026-07-01T13:31:42Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=pipeline_start | status=success
+2026-07-01T13:31:42Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=mcp_call_start | status=success
+2026-07-01T13:31:42Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=mcp_call_start | status=success
+2026-07-01T13:31:42Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=mcp_call_start | status=success
+2026-07-01T13:31:42Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=mcp_call_complete | status=success | duration_ms=16
+2026-07-01T13:31:42Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=mcp_call_complete | status=success | duration_ms=51
+2026-07-01T13:31:42Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=mcp_call_complete | status=success | duration_ms=20
+2026-07-01T13:31:42Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=mcp_call_start | status=success
+2026-07-01T13:31:42Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=mcp_call_start | status=success
+2026-07-01T13:31:42Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=mcp_call_complete | status=success | duration_ms=1
+2026-07-01T13:31:45Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=mcp_call_complete | status=success | duration_ms=2775
+2026-07-01T13:31:45Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_dispatch | status=success | agent=inventory_agent
+2026-07-01T13:31:45Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_dispatch | status=success | agent=finance_agent
+2026-07-01T13:31:45Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_dispatch | status=success | agent=supplier_agent
+2026-07-01T13:31:45Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_dispatch | status=success | agent=compliance_agent
+2026-07-01T13:31:45Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_complete | status=success | agent=inventory_agent | duration_ms=21
+2026-07-01T13:31:45Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_complete | status=success | agent=compliance_agent | duration_ms=5
+2026-07-01T13:31:47Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_complete | status=success | agent=supplier_agent | duration_ms=1666
+2026-07-01T13:31:48Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_complete | status=success | agent=finance_agent | duration_ms=2518
+2026-07-01T13:31:48Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_dispatch | status=success | agent=risk_tracker_agent
+2026-07-01T13:31:48Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_complete | status=success | agent=risk_tracker_agent | duration_ms=22
+2026-07-01T13:31:48Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_dispatch | status=success | agent=strategy_agent
+2026-07-01T13:31:50Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_complete | status=success | agent=strategy_agent | duration_ms=1947
+2026-07-01T13:31:50Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_dispatch | status=success | agent=communication_agent
+2026-07-01T13:31:51Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=agent_complete | status=success | agent=communication_agent | duration_ms=1869
+2026-07-01T13:31:51Z | INFO | run_id=be8cb668-e516-4a9f-ac2c-e94b683cf5bd | event=guardrail_hitl_pending | status=success | agent=communication_agent
