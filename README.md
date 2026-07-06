@@ -46,7 +46,7 @@ The central dashboard provides an at-a-glance view of overall business health, o
 
 ## 📊 Business Health Analysis
 
-![Health Score]([images/Screenshot%202026-07-06%141412.png](https://github.com/pushkarpradhan-debug/Business_guardian_AI_/blob/main/images/Screenshot%202026-07-05%20204033.png))
+![Health Score](https://github.com/pushkarpradhan-debug/Business_guardian_AI_/blob/main/images/Screenshot%202026-07-05%20204033.png))
 
 The platform continuously evaluates operational performance and produces a unified **Business Health Score**, helping users prioritize attention where it matters most.
 
