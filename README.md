@@ -360,7 +360,7 @@ Follow the steps below to run Business Guardian AI locally on your machine.
    ```bash
    npm run dev
    ```
-4. Open **[http://localhost:5173/](https://business-guardian-ai-frontend.onrender.com/)** in your browser.
+4. Open **[Business_Guardian_Frontend](https://business-guardian-ai-frontend.onrender.com/)** in your browser.
 
 ---
 
